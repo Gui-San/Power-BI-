@@ -1,0 +1,10 @@
+
+
+Analisando os dados disponibilizados, podemos obter insights interessantes. Sabendo disso, proponho a você um desafio de desenvolver um dashboard que consiga responder às seguintes perguntas:
+
+    Quantas admissões e desligamentos por departamento?
+    Qual o total de funcionários ativos por estado?
+
+Fique à vontade para incluir outros visuais, desenvolver seu próprio plano de fundo e estruturar uma apresentação!
+
+Ah! Não esqueça de nos marcar nas redes sociais para que possamos ver o desenvolvimento do seu dashboard!
